@@ -16,7 +16,7 @@
 	</parent>
 	<groupId>com.shoshonearnold</groupId>
 	<artifactId>soa-pet-clinic</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>soa-pet-clinic</name>
 	<description>Pet Clinic project using Spring Boot</description>
 
@@ -49,7 +49,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/shoshonearnold/soa-pet-clinic.git</developerConnection>
-		<tag>soa-pet-clinic-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
